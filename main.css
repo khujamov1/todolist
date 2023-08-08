@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(29, 2, 56);
+}
+.main-form {
+    max-width: 600px;
+    margin: 200px auto 40px;
+}
+.main-form>input {
+    width: 80%;
+    padding: 15px;
+    border-radius: 10px;
+}
+.main-btn {
+    margin-left: 15px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    background-color: green;
+}
+.main-list {
+    font-size: 25px;
+    list-style: none;
+    margin-left: 30%;
+    padding-left: 0;
+    color: #fff;
+}
+.main-list > li {
+    margin-bottom: 20px;
+}
